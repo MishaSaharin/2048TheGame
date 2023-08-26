@@ -1,4 +1,4 @@
-# 2048TheGame
+# The Game 2048
 
  to play [2048](https://javarush.com/projects/apps/354197)
 
